@@ -15712,14 +15712,6 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="195.48" y1="68.54" x2="195.94" y2="68.54" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$3" class="0">
-<segment>
-<pinref part="R7" gate="G$1" pin="2"/>
-<pinref part="LED3" gate="G$1" pin="A"/>
-<wire x1="194.39" y1="54.88" x2="194.39" y2="55.54" width="0.1524" layer="91"/>
-<wire x1="194.39" y1="55.54" x2="195.94" y2="55.54" width="0.1524" layer="91"/>
-</segment>
-</net>
 </nets>
 </sheet>
 <sheet>
