@@ -13600,7 +13600,7 @@ DIN A3, landscape with location and doc. field</description>
 </instance>
 <instance part="D2" gate="1" x="274.38" y="62.54" smashed="yes">
 <attribute name="NAME" x="276.92" y="63.0226" size="1.778" layer="95"/>
-<attribute name="VALUE" x="276.92" y="60.2286" size="1.778" layer="96"/>
+<attribute name="VALUE" x="276.92" y="55.1486" size="1.778" layer="96"/>
 </instance>
 <instance part="D3" gate="1" x="283.27" y="62.54" smashed="yes">
 <attribute name="NAME" x="285.81" y="63.0226" size="1.778" layer="95"/>
